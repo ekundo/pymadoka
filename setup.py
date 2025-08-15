@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pymadoka',
-    version='0.2.13-ekundo',
+    version='0.2.13+ekundo',
     py_modules=['pymadoka'],
     author = "ekundo",
     author_email = "ekundo@gmail.com",

@@ -8,7 +8,7 @@ setup(
     author_email = "manuelduran@gmail.com",
     description = ("A library to control Daikin BRC1H (Madoka) thermostats"),
     license = "MIT",
-    url = "https://github.com/mduran80/pymadoka",
+    url = "https://github.com/ekundo/pymadoka",
     keywords = "thermostat homeautomation bluetooth",
     packages=find_packages()+ find_packages(where="./features"),
     install_requires=[
